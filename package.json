@@ -1,0 +1,15 @@
+{
+  "name": "geoll",
+  "version": "1.0.0",
+  "description": "geoll é uma API que permite, com base na longitude e latitude, obter a área no mapa.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "void",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
